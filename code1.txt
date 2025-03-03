@@ -1,5 +1,6 @@
 void printMsg(char * str);
 
+int sum(int a, int b);
 
 int main() {
     printf("1st line\n");
